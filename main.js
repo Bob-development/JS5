@@ -137,7 +137,7 @@ function anotherTransfer() {
   if(transferAgain[0].toLowerCase() === 'n') isRunningConvertor = false;
 }
 
-TASK 2
+// TASK 2
 const me = {
 
 }
